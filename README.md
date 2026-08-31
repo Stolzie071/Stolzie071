@@ -15,10 +15,6 @@ I build clean and modern experiences for web and mobile.
 &nbsp;
 <img width="48" height="48" src="https://cdn.simpleicons.org/expo/FFFFFF" alt="Expo" title="Expo" />
 
-<br />
-
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:0EA5E9&height=120&section=footer" alt="Profile footer" />
