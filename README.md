@@ -11,7 +11,7 @@ I build clean and modern experiences for web and mobile.
 <br />
 <br />
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,html,css,react,tailwind&theme=dark" alt="TypeScript, JavaScript, Node.js, Git, HTML, CSS, React and Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,html,css,react,vite,tailwind&theme=dark" alt="TypeScript, JavaScript, Node.js, Git, HTML, CSS, React, Vite and Tailwind CSS" />
 &nbsp;
 <img width="48" height="48" src="https://cdn.simpleicons.org/expo/FFFFFF" alt="Expo" title="Expo" />
 
